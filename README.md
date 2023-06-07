@@ -11,7 +11,7 @@ These have been listed here to assist with some of the most common troubleshooti
 * [Can't access droplet](https://www.digitalocean.com/community/questions/can-t-access-droplet-lost-key-of-root-now-ssh-copy-id-not-working-permission-denied-publickey)
 * [Connect with SSH (Putty)](https://docs.digitalocean.com/products/droplets/how-to/connect-with-ssh/putty/)
 * [Add SSH with Putty](https://docs.digitalocean.com/products/droplets/how-to/add-ssh-keys/create-with-putty/)
-* [Connect with SHH](https://docs.digitalocean.com/products/droplets/how-to/connect-with-ssh/)
+* [Connect with SSH](https://docs.digitalocean.com/products/droplets/how-to/connect-with-ssh/)
 
 ## Kindly note:
 - There is no shame in doing research on a problem you are unfamiliar with. Google is your friend :)
